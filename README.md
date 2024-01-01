@@ -15,7 +15,7 @@ A simple web page that displays information about the user's IP address using th
 
 ## Preview
 
-![Infox Preview](infox-preview.png)
+[Preview](https://kawsarahmad43.github.io/InfoX/).
 
 ## Credits
 
